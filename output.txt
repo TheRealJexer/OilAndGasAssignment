@@ -1,0 +1,49 @@
+StartMenu.py Tests
+PS C:\Users\jexer\OneDrive\Desktop\Object Oriented Programming\AssignmentOneOilAndGas> & C:/Users/jexer/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/jexer/OneDrive/Desktop/Object Oriented Programming/AssignmentOneOilAndGas/StartMenu.py"
+Welcome to our Oil and Gas supply service, please make a selection
+
+
+
+G: G
+O: Oil
+PS C:\Users\jexer\OneDrive\Desktop\Object Oriented Programming\AssignmentOneOilAndGas> & C:/Users/jexer/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/jexer/OneDrive/Desktop/Object Oriented Programming/AssignmentOneOilAndGas/main.py"
+***Welcome to our Oil and Gas supply service!***
+
+ Please make a selection.
+
+G: Gas
+O: Oil
+>>>g
+Input Tests
+PS C:\Users\jexer\OneDrive\Desktop\Object Oriented Programming\AssignmentOneOilAndGas> & C:/Users/jexer/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/jexer/OneDrive/Desktop/Object Oriented Programming/AssignmentOneOilAndGas/InputSelection.py"
+Welcome to our Oil and Gas supply service, please make a selection
+
+G: G
+O: Oil
+>>>
+PS C:\Users\jexer\OneDrive\Desktop\Object Oriented Programming\AssignmentOneOilAndGas> & C:/Users/jexer/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/jexer/OneDrive/Desktop/Object Oriented Programming/AssignmentOneOilAndGas/TestingInputs.py"
+Welcome to our Oil and Gas supply service, please make a selection
+
+G: G
+O: Oil
+>>>g
+Enter the number of litres of gas: 
+Enter the number of cases of oil: 
+PS C:\Users\jexer\OneDrive\Desktop\Object Oriented Programming\AssignmentOneOilAndGas> & C:/Users/jexer/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/jexer/OneDrive/Desktop/Object Oriented Programming/AssignmentOneOilAndGas/TestingInputs.py"
+Welcome to our Oil and Gas supply service, please make a selection
+
+G: G
+O: Oil
+>>>j
+Enter the number of litres of gas: 1
+Enter the number of cases of oil: 1
+PS C:\Users\jexer\OneDrive\Desktop\Object Oriented Programming\AssignmentOneOilAndGas> & C:/Users/jexer/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/jexer/OneDrive/Desktop/Object Oriented Programming/AssignmentOneOilAndGas/TestingInputs.py"
+Welcome to our Oil and Gas supply service, please make a selection
+
+G: G
+O: Oil
+>>>gas
+Sorry
+>>>g
+Enter the number of litres of gas: 15
+Enter the number of cases of oil: 15
